@@ -23,10 +23,10 @@ The system eliminates subjectivity in urban planning by offering measurable indi
 
 The project is built on a modular ecosystem consisting of:
 
-### ⚙️ [UQ Training Engine](../uq-training-engine)
+### ⚙️ [UQ Training Engine](https://github.com/UrbanQuality-AI/uq-training-engine)
 The training and optimization engine. It is responsible for training AI models in a ViT multi-head architecture. It utilizes TrueSkill rankings to stabilize learning on preferential labels and the Optuna library for automated hyperparameter tuning.
 
-### 🖥️ [UQ Desktop Processor](../uq-desktop-processor)
+### 🖥️ [UQ Desktop Processor](https://github.com/UrbanQuality-AI/uq-desktop-processor)
 A desktop application (GUI) and processing library used for the operational deployment of trained models. It includes modules for:
 
 - Route planning  
