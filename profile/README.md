@@ -121,5 +121,5 @@ Visualization of the resulting layer using Los Angeles as an example (Mapillary 
 ---
 
 <p align="center">
-  <img src="profile/images/icon.png" width="500" alt="UrbanQuality AI Icon">
+  <img src="images/icon.png" width="500" alt="UrbanQuality AI Icon">
 </p>
